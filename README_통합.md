@@ -28,7 +28,8 @@ Random
 
 받아온 영화 데이터 중 첫 번째 데이터를 출력합니다.
 
-날씨 정보를 기반으로 날씨가 맑을 때는 액션 영화를, 구름이 낀 날은 드라마를 추천하는 recommendMovieBasedOnWeather 함수가 있습니다.
+날씨 정보를 기반으로 날씨가 맑을 때는 드라마 영화를, 구름이 낀 날은 범죄영화를, 
+기타 날씨에는 판타지 영화를 추천하는 recommendMovieBasedOnWeather 함수가 있습니다.
 
 ## WatchList
 WatchList를 클릭하면 보고 싶은 영화를 입력할 수 있는 입력창을 표시합니다.
